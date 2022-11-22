@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppOptions.cs" />
+    <Compile Include="Func1.cs" />
     <Compile Include="Functionality\Func1.cs" />
     <Compile Include="Models\Model1.cs" />
     <Compile Include="Models\Model2.cs" />
