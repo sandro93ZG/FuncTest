@@ -58,6 +58,7 @@
     <None Include="appconfig.json" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="script.js" />
     <Content Include="Styles\GlobalStyles.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
